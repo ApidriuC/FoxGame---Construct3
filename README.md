@@ -8,5 +8,7 @@ El presente juego se realizado en la Optativa de Desarrollo de Video Juegos en n
 
 
 Universidad Pontifica Bolivariana - Seccional Bucaramanga.
+
 Facultad Ingeniería de Sistemas e Informática.
+
 Copyright (2022): Andrés Felipe Londoño Campos.
