@@ -6,4 +6,7 @@ El presente juego se realizado en la Optativa de Desarrollo de Video Juegos en n
 ![Part 1](https://github.com/ApidriuC/FoxGame---Construct3/blob/main/ImgFoxGame/FOXGAME.PNG)
 
 
+
+Universidad Pontifica Bolivariana - Seccional Bucaramanga.
+Facultad Ingeniería de Sistemas e Informática.
 Copyright (2022): Andrés Felipe Londoño Campos.
